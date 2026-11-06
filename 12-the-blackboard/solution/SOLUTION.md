@@ -1,0 +1,3 @@
+# Solution: The blackboard: shared state instead of addressed messages
+
+With seven agents, each broadcast message lands in six inboxes, so deliveries rise to 18 per order, up from 12.0 with five agents. Broadcast cost grows with the product of messages and team size, because every message is everyone's mail. Addressed messages grow only with messages, and blackboard reads grow only with subscriptions, which is why large systems drift away from broadcast group chats toward addressed or board designs even when the group chat was simpler to build. Scale arguments in multi-agent design are usually inbox arguments.
