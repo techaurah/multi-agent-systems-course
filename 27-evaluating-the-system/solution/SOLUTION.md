@@ -1,0 +1,3 @@
+# Solution: Evaluating the system: per-agent metrics and fault attribution
+
+The combined fault causes 7 new failures, and the rule blames the extractor for all 7 of them, because fields deviate before drafts do. The drafter's fault is fully present and fully invisible: every order it would have damaged is already blamed upstream. First-deviation attribution finds the earliest fault, and in doing so certifies the rest of the chain as healthy when it has not checked it. The operational consequence: fix faults in attribution order and rerun the attribution after each fix, because the second fault only becomes visible once the first stops shadowing it.
