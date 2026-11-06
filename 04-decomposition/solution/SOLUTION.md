@@ -1,0 +1,3 @@
+# Solution: Decomposition: reading the shape of the work before choosing agents
+
+Three jobs per order gives 36 jobs in the batch and a chain depth of 3. What the graph can no longer express is the dependency between drafting and policy: in the four-job graph, order-05's draft visibly depends on the check job, because the lead asks for a discount above the cap. In the three-job graph that dependency is invisible, and order-05 looks like a clean sequential order, so the graph would predict the plain pipeline handles it as well as it handles order-09. It does not: Lesson 06's pipeline, which is the three-job shape in code, fails order-05 exactly there. A decomposition that cannot draw a dependency cannot route around it.
