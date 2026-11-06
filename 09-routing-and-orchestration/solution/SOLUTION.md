@@ -1,0 +1,3 @@
+# Solution: Routing and orchestration: send each order the cheapest safe way
+
+The cautious router sends 7 of 12 orders to review: the four trap orders plus the three clean urgent ones (order-01, order-09, order-10). Successes stay at 10, because the three extra reviews find nothing to fix, and mean tokens rise to 324.0, between the orchestrated 302.4 and the always-review 360.2. On this fixture set the caution buys nothing, because urgency was never correlated with violations here. In production the same experiment is how a routing rule earns or loses its place: measure the marginal catch, not the feeling of safety.
