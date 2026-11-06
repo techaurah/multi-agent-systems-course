@@ -1,0 +1,3 @@
+# Solution: The reviewer: a verification bottleneck, priced, with its blind spot
+
+Successes rise to 12 of 12. Order-04 and order-06 change state, because their failures were never draft failures: the fields themselves were wrong, and a reviewer that re-reads the source can see it. This is precisely the hardening the capstone undergoes in Lesson 31, where the same field check, applied only to orders whose extraction looks thin, takes the capstone from 10 of 12 to 12 of 12 and through its success gate. The general principle: every verification layer has a reading list, and its blind spot is exactly the inputs not on it. Write the reading list down; the blind spot is then a decision instead of a surprise.
