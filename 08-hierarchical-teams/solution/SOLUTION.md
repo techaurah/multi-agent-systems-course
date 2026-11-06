@@ -1,0 +1,3 @@
+# Solution: Hierarchical teams: the manager tax, measured
+
+With two workers the flat pool's makespan rises to 18 steps (six orders per worker at three steps each), while its messages and tokens stay at 36 and 2802, identical to the four-worker pool: pool size moves time, never cost. The hierarchy's 11 steps now beat the flat pool, not because hierarchy got better but because it fields four workers under its tree. The honest reading: hierarchy is one way to organise many workers, and its tax is worth paying when the alternative is a coordinator who cannot brief the whole pool, not a moment before.
