@@ -1,0 +1,3 @@
+# Solution: Cascading errors: one fault, every stage, and the checkpoint
+
+The widened trigger recovers 10 orders, including order-04, and successes rise to 12 of 12. The two orders it does not recover, order-07 and order-12, need no recovery: their budgets genuinely are absent, and the careful reading confirms the absence instead of repairing it. A checkpoint trigger is a hypothesis about what corruption looks like; widening it is cheap here because the careful re-read is safe on healthy input. In systems where re-checking is expensive, the trigger's precision becomes a budget question, and Lesson 24 prices checks in exactly those terms.
