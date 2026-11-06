@@ -1,0 +1,3 @@
+# Solution: Conflicting outputs: arbitration is a design decision
+
+The lenient scorer disagrees with the rubric on order-02, order-09: order-02 at score 75, which the lenient line calls hot, and order-09 at 50, which it calls warm. The strict scorer disagreed at the low edge of warm (55); the lenient one disagrees at the high edge of warm (75) and the high edge of nurture (50). The common structure: every disagreement lives within one threshold gap of a band boundary. Disagreement sets are boundary sets, and the practical consequence is that arbitration volume is predictable from the score distribution: count the orders within a threshold gap of a boundary and you have counted tomorrow's arguments.
