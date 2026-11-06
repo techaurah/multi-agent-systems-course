@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560">
+<rect width="1000" height="560" fill="white"/>
+<text x="48" y="64" font-family="Georgia, serif" font-size="30" fill="#0B1F4A" font-weight="bold">The capstone system and its verdict</text>
+<text x="48" y="94" font-family="Georgia, serif" font-size="16" fill="#475569">Router, pipeline, reviewer, field check. Gates fixed in Lesson 29 before the build (Lesson 31).</text>
+<rect x="48" y="170" width="170" height="110" rx="10" fill="#0B1F4A"/>
+<text x="133.0" y="200" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="white" font-weight="bold">Router</text>
+<text x="133.0" y="224" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">traps to review</text>
+<text x="133.0" y="244" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">clean orders pass</text><line x1="218" y1="225" x2="258" y2="225" stroke="#0891B2" stroke-width="3"/><polygon points="258,225 248,219 248,231" fill="#0891B2"/><rect x="258" y="170" width="190" height="110" rx="10" fill="#0891B2"/>
+<text x="353.0" y="200" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="white" font-weight="bold">Pipeline</text>
+<text x="353.0" y="224" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">extract, score</text>
+<text x="353.0" y="244" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">draft</text><line x1="448" y1="225" x2="488" y2="225" stroke="#0891B2" stroke-width="3"/><polygon points="488,225 478,219 478,231" fill="#0891B2"/><rect x="488" y="170" width="190" height="110" rx="10" fill="#0891B2"/>
+<text x="583.0" y="200" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="white" font-weight="bold">Reviewer</text>
+<text x="583.0" y="224" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">verdict + one</text>
+<text x="583.0" y="244" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">safe redraft</text><line x1="678" y1="225" x2="718" y2="225" stroke="#0891B2" stroke-width="3"/><polygon points="718,225 708,219 708,231" fill="#0891B2"/><rect x="718" y="170" width="200" height="110" rx="10" fill="#059669"/>
+<text x="818.0" y="200" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="white" font-weight="bold">Field check</text>
+<text x="818.0" y="224" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">careful re-read</text>
+<text x="818.0" y="244" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">on thin extracts</text><rect x="48" y="340" width="420" height="90" rx="10" fill="#FEF3C7"/>
+<text x="258.0" y="370" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#0B1F4A" font-weight="bold">As built: 4 of 5 gates</text>
+<text x="258.0" y="394" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#0B1F4A">success 0.8333 fails the 0.9 gate; the rest pass</text><rect x="500" y="340" width="418" height="90" rx="10" fill="#D1FAE5"/>
+<text x="709.0" y="370" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#0B1F4A" font-weight="bold">Hardened: 5 of 5 gates</text>
+<text x="709.0" y="394" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#0B1F4A">12 of 12 orders, 0 escapes, 349.3 tokens per success</text><text x="48" y="536" font-family="Georgia, serif" font-size="13" fill="#475569">The hardened system still costs about 2.06x the single agent's tokens per success. That residue is printed, not hidden.</text>
+</svg>

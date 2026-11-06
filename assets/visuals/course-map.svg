@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560">
+<rect width="1000" height="560" fill="white"/>
+<text x="48" y="64" font-family="Georgia, serif" font-size="30" fill="#0B1F4A" font-weight="bold">Multi-Agent Systems: course map</text>
+<text x="48" y="94" font-family="Georgia, serif" font-size="16" fill="#475569">32 lessons, 10 modules, one measured capstone. Every claim runs on bundled fixtures.</text>
+<rect x="48" y="140" width="168" height="120" rx="10" fill="#0B1F4A"/>
+<text x="132.0" y="170" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="white" font-weight="bold">Module 0</text>
+<text x="132.0" y="194" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">Foundations</text>
+<text x="132.0" y="214" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">Lessons 00-02</text><rect x="232" y="140" width="168" height="120" rx="10" fill="#0891B2"/>
+<text x="316.0" y="170" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="white" font-weight="bold">Module 1</text>
+<text x="316.0" y="194" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">One agent first</text>
+<text x="316.0" y="214" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">Lessons 03-05</text><rect x="416" y="140" width="168" height="120" rx="10" fill="#0891B2"/>
+<text x="500.0" y="170" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="white" font-weight="bold">Module 2</text>
+<text x="500.0" y="194" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">Topologies</text>
+<text x="500.0" y="214" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">Lessons 06-09</text><rect x="600" y="140" width="168" height="120" rx="10" fill="#0891B2"/>
+<text x="684.0" y="170" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="white" font-weight="bold">Module 3</text>
+<text x="684.0" y="194" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">Communication</text>
+<text x="684.0" y="214" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">Lessons 10-13</text><rect x="784" y="140" width="168" height="120" rx="10" fill="#0891B2"/>
+<text x="868.0" y="170" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="white" font-weight="bold">Module 4</text>
+<text x="868.0" y="194" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">State and memory</text>
+<text x="868.0" y="214" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">Lessons 14-16</text><rect x="48" y="310" width="168" height="120" rx="10" fill="#0891B2"/>
+<text x="132.0" y="340" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="white" font-weight="bold">Module 5</text>
+<text x="132.0" y="364" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">Failure modes</text>
+<text x="132.0" y="384" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">Lessons 17-20</text><rect x="232" y="310" width="168" height="120" rx="10" fill="#0891B2"/>
+<text x="316.0" y="340" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="white" font-weight="bold">Module 6</text>
+<text x="316.0" y="364" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">Verification and safety</text>
+<text x="316.0" y="384" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">Lessons 21-23</text><rect x="416" y="310" width="168" height="120" rx="10" fill="#0891B2"/>
+<text x="500.0" y="340" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="white" font-weight="bold">Module 7</text>
+<text x="500.0" y="364" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">Cost and scaling</text>
+<text x="500.0" y="384" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">Lessons 24-26</text><rect x="600" y="310" width="168" height="120" rx="10" fill="#0891B2"/>
+<text x="684.0" y="340" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="white" font-weight="bold">Module 8</text>
+<text x="684.0" y="364" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">Evaluation</text>
+<text x="684.0" y="384" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">Lessons 27-28</text><rect x="784" y="310" width="168" height="120" rx="10" fill="#0B1F4A"/>
+<text x="868.0" y="340" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="white" font-weight="bold">Module 9</text>
+<text x="868.0" y="364" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">Capstone</text>
+<text x="868.0" y="384" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="white">Lessons 29-31</text><text x="48" y="536" font-family="Georgia, serif" font-size="13" fill="#475569">Start at Lesson 00. The capstone gates are fixed in Lesson 29, before the system is built in Lesson 30.</text>
+</svg>
