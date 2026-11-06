@@ -1,0 +1,5 @@
+Multi-Agent Systems: a free, builder-level course from TechAurah on designing systems of cooperating AI agents. 32 lessons in 10 modules, framework-free, Python standard library only, no API keys. Agents are deterministic stand-ins over a bundled 12-order lead-processing fixture set, so every number reproduces.
+
+Key measured results: single agent 7 of 12 successes with 4 policy escapes at 169.7 tokens per success; sequential pipeline ties the single agent overall and on chained work at 2.24x the tokens (the honest negative); pipeline plus reviewer 10 of 12 with 0 escapes; debate 12 of 12 at 389.2 tokens per success; orchestrated routing matches reviewed outcomes for 16.1 percent fewer tokens. Capstone: a routed, reviewed lead-processing system graded against five gates fixed in writing before the build; as built it passes 4 of 5 (success 0.8333 against a 0.9 gate), and hardened with a field check it passes 5 of 5 at 12 of 12 orders, 0 escapes, 349.3 tokens per success, still about 2.06x the single agent's cost per success.
+
+Start: README.md. Research and sources: RESEARCH.md. Design: DESIGN.md. Progress: PROGRESS.md. Licence: MIT.
