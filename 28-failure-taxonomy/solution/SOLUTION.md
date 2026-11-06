@@ -1,0 +1,3 @@
+# Solution: Failure taxonomy in practice: the course profile against the field
+
+With the reviewed pipeline, the totals become 17 instances: verification falls from 8 to 4, and specification rises from 6 to 7, while misalignment is unmoved at 6. The reviewer does not reduce the system's underlying error production; it converts verification failures (violations that shipped) into visible specification failures (wrong fields that a clean draft can no longer hide). A verification layer moves failures to the category where they can be fixed, and a profile read after adding one will misleadingly suggest the design got worse in exactly the category that got more honest.
