@@ -1,0 +1,3 @@
+# Solution: When multi-agent loses: the sequential race, run honestly
+
+With the reviewer, the pipeline succeeds on 2 of the 3 chained orders: order-05 is fixed, because the reviewer catches the discount agreement and forces a safe redraft, while order-04 still fails on its unread budget. The mean token cost rises to 401.7 per order, the most expensive configuration tried on this family. The lesson inside the lesson: on chained work, coordination pays only when a stage adds a new capability (checking against policy), never when it merely relays. A relay race and a relay tax are the same architecture with different stage contents.
