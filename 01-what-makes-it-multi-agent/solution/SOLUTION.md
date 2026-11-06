@@ -1,0 +1,3 @@
+# Solution: What makes it multi-agent: one agent, or many, doing the same work
+
+On order-10 the single agent spends 87 tokens and the pipeline spends 232, a gap of 145 tokens, smaller than order-01's gap of 145. The gap is mostly the fixed cost of the message headers and the fields and score payloads, which barely grow with the lead; the single agent's count grows with the lead text itself, so on a short, dense lead the fixed coordination cost is a smaller share. Coordination overhead is closer to a fixed tax per boundary than a percentage of the work, which is why Lesson 25 finds it dominates small tasks and fades on large ones.
