@@ -1,0 +1,3 @@
+# Solution: The single-agent baseline: the system every topology must beat
+
+With the careful extractor the single agent succeeds on 9 of 12 orders. Order-04 and order-06 are fixed, because both were pure extraction failures: the fields were wrong, so everything downstream was wrong. The survivors are order-05, order-07, order-12, all draft failures: agreeing to a 25 percent discount and inventing starting prices are not reading problems, and no extractor, however careful, fixes them. They need a check on the output, not a better read of the input, which is why the course eventually puts a reviewer at the exit instead of only polishing the entrance.
