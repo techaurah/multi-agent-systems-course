@@ -1,0 +1,3 @@
+# Solution: Choosing a topology: the decision table, computed
+
+The independent family keeps the single agent (cheapest and perfect). The chained family flips toward the single agent on price among systems with a success, since its 317.0 tokens per success undercut the orchestrated 555.0, accepting fewer successes for a lower price. The ambiguous family cannot flip: the cheap systems score zero there, so any rule with a success floor at all keeps a coordinated system. The revelation is that the original rule encodes a value judgement, success before price, and the flipped rule encodes the opposite one. Neither is the table's fault; a decision table makes the judgement visible so it can be argued with, which is all engineering can ask of it.
