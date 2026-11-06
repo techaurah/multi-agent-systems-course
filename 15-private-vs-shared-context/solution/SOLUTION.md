@@ -1,0 +1,3 @@
+# Solution: Private vs shared context: exposure, and the contaminated draft
+
+Violations rise to 15. With order-05 first, its 25 percent line is in context for all eleven later drafts instead of seven, and every later order whose lead asked for no discount inherits it. Contamination is directional and historical: an output can only pollute work that happens after it and can see it. That is why the mitigations are also directional: scope contexts per order, order risky work last, or strip other orders' outputs from drafting contexts entirely. The pipeline's addressed design never shares drafts at all, which is part of what its serialization tax was buying.
