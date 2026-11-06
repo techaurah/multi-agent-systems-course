@@ -1,0 +1,3 @@
+# Solution: Course setup: what you need, and how this course works
+
+Five orders carry an expected score of 90 or more: order-01 and order-10 at 100, and order-04, order-05, and order-06 at 90. Two leads state no budget: lead-07 (an urgent lawn care inquiry where the figure has not been given yet) and lead-12 (a two-line message asking for prices). The expected answers are fixed in advance for the same reason the capstone's gates are: a coordination design can only be graded against a target that was written down before the design ran, otherwise every result can be explained away after the fact.
