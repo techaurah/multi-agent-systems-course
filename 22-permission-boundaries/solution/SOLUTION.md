@@ -1,0 +1,3 @@
+# Solution: Permission boundaries: least privilege between agents
+
+The blocked count falls from 6 to 5, since the sender's no-verdict attempt is now allowed. The argument against sits in Lesson 03's failure table: order-12 is a nurture order whose naive draft invents a starting price, and order-04's draft violation rides on a misread band, meaning the band on the label is itself sometimes wrong. Gating review by band exempts exactly the orders whose labels are least trustworthy, and it saves the reviewer cost on the cheapest orders to check. If an exception must exist, the course's evidence supports exempting by trap visibility (Lesson 09's router), never by the output's own self-description.
