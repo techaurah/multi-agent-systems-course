@@ -1,0 +1,3 @@
+# Solution: The sequential pipeline: same failures, better addresses
+
+Successes rise to 9 of 12, and the failures left are order-05, order-07, order-12, all drafter failures. The extractor's failure count drops to zero and takes the scorer's inherited failures with it, confirming that the scorer never had a problem of its own. The drafter's count is untouched at the same three orders as the careful single agent in Lesson 03: reading better cannot fix writing that agrees to illegal discounts. Mean tokens barely move (233.7 against 233.5), because the careful reading happens inside the extractor's stage, not in the messages.
