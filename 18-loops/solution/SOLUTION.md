@@ -1,0 +1,3 @@
+# Solution: Loops: the conversation that never finishes
+
+Escalation fires at 5 messages: two request and question pairs, then the handoff. The saving over the threshold of three is two messages per loop. The risk is real and should be stated plainly: a healthy retry after a transient failure also repeats a payload, and a threshold of two cannot distinguish a retry from a repetition. Threshold choice is a false-positive budget, not a correctness setting; the course's preference is a threshold of three paired with payload comparison that includes a retry counter, so a deliberate retry (which increments its counter) is visibly different from a stuck loop (which cannot).
