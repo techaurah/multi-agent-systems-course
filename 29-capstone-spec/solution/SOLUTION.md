@@ -1,0 +1,3 @@
+# Solution: Capstone spec: the system and its gates, fixed in advance
+
+At a success gate of 0.80, the blackboard, orchestrated, and reviewed pipeline rows of Lesson 24 (all at 0.8333) would pass alongside debate, and the gate would no longer force the field-level fix that the capstone ultimately needs: a system can sit at 10 of 12 forever, shipping two misread orders, and call itself gated. At a tokens-per-success gate of 350, Lesson 24's orchestrated (362.9) and reviewed pipeline (432.3) would both fail, and only debate (389.2) would still fail too, leaving the blackboard's pointer-priced 86.7 as the sole passer, a result that should make any gate-setter check the accounting caveat before celebrating. Gates interact with accounting choices; both belong in the spec.
